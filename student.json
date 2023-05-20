@@ -1,0 +1,17 @@
+{
+    "students":[{
+        "id":1,
+        "name":"sg",
+        "clg":"cvr"
+    },
+    {
+        "id":2,
+        "name":"ds",
+        "clg":"vnr"
+    },{
+        "id":3,
+        "name":"vk",
+        "clg":"vjit"
+    }
+]
+}
